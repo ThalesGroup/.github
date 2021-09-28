@@ -1,0 +1,2 @@
+# .github
+Thales GitHub organization
