@@ -1,6 +1,6 @@
 # Welcome in Thales GitHub organization
 
-![Thales Open Source communities](https://thalesgroup.github.io/images/Thales_OSS_banner.png)
+![Thales Open Source communities](https://github.com/ThalesGroup/.github/blob/main/Thales%20OSS%20Banner.png)
 
 # Open source at Thales
 **Open Source Software & Hardware** are major concerns for Thales, we want to foster collaborations between the actors of these communities through this GitHub organization.
