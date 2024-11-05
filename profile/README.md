@@ -1,4 +1,4 @@
-# Welcome in Thales GitHub organization
+# Welcome to Thales GitHub organization
 
 ![Thales Open Source communities](https://github.com/ThalesGroup/.github/blob/main/Thales%20OSS%20Banner_2023.png)
 
