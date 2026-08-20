@@ -1,12 +1,12 @@
 <div align="center">
 
-![Thales — Empowering Open Collaboration](./IOSPO_Banner.png)
+![Thales — Empowering Open Collaboration](./profile/IOSPO_Banner.png)
 
 # Open Source @ Thales
 
 **Building tomorrow, together.**
 
-[Browse our projects](https://thalesgroup.github.io/projects/) · [Contact the OSPO](mailto:oss@thalesgroup.com) · [How to contribute](#-how-to-contribute)
+[Browse our projects](https://github.com/orgs/ThalesGroup/repositories) · [Contact the OSPO](mailto:oss@thalesgroup.com) · [How to contribute](#-how-to-contribute)
 
 </div>
 
@@ -64,13 +64,13 @@ Once approved, the project is published here — **the single entry point for al
 
 We publish and maintain projects across cybersecurity, cryptography, cloud-native infrastructure, embedded/hardware, and software architecture tooling.
 
-👉 **[See the full project catalogue](https://thalesgroup.github.io/projects/)**
+👉 **[See the full project catalogue](https://github.com/orgs/ThalesGroup/repositories)**
 
 ## 🙌 How to contribute
 
 Interested in contributing to one of our projects? We'd love to have you:
 
-1. Pick a project from our [catalogue](https://thalesgroup.github.io/projects/) and check its own `CONTRIBUTING.md`.
+1. Pick a project from our [catalogue](https://github.com/orgs/ThalesGroup/repositories) and check its own `CONTRIBUTING.md`.
 2. Open an issue or a pull request — most repositories welcome external contributions.
 3. Questions, partnership ideas, or want to talk about our OSPO? Reach out at **oss@thalesgroup.com**.
 
