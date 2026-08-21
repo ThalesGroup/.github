@@ -25,7 +25,7 @@ Our mindset is simple: **Use → Contribute → Publish.**
 
 ## 🏆 Recognized for it
 
-On **10 December 2025**, Thales received the **"Best Open Source Strategy"** award at the Open Source Experience trade show, presented by the CNLL (Conseil National du Logiciel Libre). It rewards five years of work by the Group's Technical Directorate: a structured transformation, mature internal processes, real impact in the Open Source community, and the commitment of teams across the company.
+On **10 December 2025**, Thales [received the **"Best Open Source Strategy"** award](https://www.thalesgroup.com/fr/actualites-du-groupe/breves/recherche-et-innovation/thales-recoit-le-prix-de-la-meilleure-strategie) at the Open Source Experience trade show, presented by the CNLL (Conseil National du Logiciel Libre). It rewards five years of work by the Group's Technical Directorate: a structured transformation, mature internal processes, real impact in the Open Source community, and the commitment of teams across the company.
 
 ## 🌍 Why it matters to us
 
@@ -55,8 +55,7 @@ Every Thales Open Source **publication** (sharing an internal asset) or **contri
 
 - a **manager**, to check alignment with business interests;
 - a **technical expert**, to review code and architecture;
-- the **Software Compliance team**, to manage IP, licensing and export-control risk;
-- a **legal expert**, to validate the license choice.
+- the **Software Compliance team**, to manage IP, licensing and export-control risk, and validate the license choice.
 
 Once approved, the project is published here — **the single entry point for all Thales Open Source assets**.
 
